@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repository was used for the research and development of Semaphore v4. For details on the stable release of Semaphore v4, please visit the [GitHub release notes](https://github.com/semaphore-protocol/semaphore/releases/tag/v4.0.0). 
+
 <h1 align="center">
     Semaphore Research
 </h1>
